@@ -1,0 +1,38 @@
+[
+    {
+        "image": "images/brownie.jpg",
+        "name": "Brownie",
+        "price": "2.25$ / piece",
+        "description": "Our brownies are the perfect balance of cakey, fudgy, and chewy. Deep and dark with chocolate flavor, our rich brownies keep fussiness to a minimum without sacrificing a bit of flavor."
+    },
+    {
+        "image": "images/sansebastian.jpeg",
+        "name": "San Sebastian",
+        "price": "6.80$ / slice",
+        "description": "An ultra creamy crustless cheesecake with a beautifully caramelized top that originated in the town of San Sebastian in the Basque region of Northern Spain."
+    },
+    {
+        "image": "images/blueberrycheesecake.jpeg",
+        "name": "Blueberry Cheesecake",
+        "price": "5.50$ / slice",
+        "description": "Baked to achieve that elusive light-yet-rich creamy cheesecake filling, studded with blueberries inside and smothered in an incredible glossy blueberry sauce topping."
+    },
+    {
+        "image": "images/cookie.jpeg",
+        "name": "Chocolate Chip Cookie",
+        "price": "3.35$ / per",
+        "description": "Our chocolate chip cookie is a sweet baked treat that is recognized by its butter flavor and the inclusion of chocolate chips."
+    },
+    {
+        "image": "images/icecream.jpeg",
+        "name": "Ice Cream",
+        "price": "3$ / scoop",
+        "description": "With 8 current flavors: Vanilla, Chocolate, Strawberry, Chocolate Chip, Butter Pecan, Matcha, Eggnog, Teaberry."
+    },
+    {
+        "image": "images/applepie.jpeg",
+        "name": "Apple Pie",
+        "price": "6.10$ / slice",
+        "description": "Filled above the rim with fresh granny smith apples, sweetened with sugar and spices to enhance the flavor of the apples to perfection. All of this is sealed with our buttery flaky crust."
+    }
+]

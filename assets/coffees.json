@@ -1,0 +1,38 @@
+[
+    {
+        "image": "images/latte.jpg",
+        "name": "Latte",
+        "price": "10$",
+        "description": "Freshly pulled shots of espresso with steamed non-fat milk and topped with thick foam."
+    },
+    {
+        "image": "images/filtercoffee.jpg",
+        "name": "Filter Coffee",
+        "price": "4$",
+        "description": "For filter coffee, we generally follow the drip process, where hot water is added to the ground coffee beans and then allowed to drip in a pot. This is what makes us unique."
+    },
+    {
+        "image": "images/americano.jpg",
+        "name": "Americano",
+        "price": "4$",
+        "description": "Espresso shots topped with hot water create a light layer of crema culminating in this wonderfully rich cup with depth and nuance."
+    },
+    {
+        "image": "images/chocolatemilkshake.jpg",
+        "name": "Chocolate Milkshake",
+        "price": "14$",
+        "description": "Creamy soft-serve blended with milk and chocolate syrup. Garnished with whipped cream and rainbow sprinkles."
+    },
+    {
+        "image": "images/strawberrymilkshake.jpg",
+        "name": "Strawberry Milkshake",
+        "price": "14$",
+        "description": "The unmistakable summer flavor of strawberries, hand-spun into a rich and creamy milkshake."
+    },
+    {
+        "image": "images/sahlep.jpg",
+        "name": "Sahlep",
+        "price": "8$",
+        "description": "Salep is a flour made from the tubers of the orchid genus Orchis. These tubers contain a nutritious, starchy polysaccharide called glucomannan. Salep flour is consumed in beverages and desserts, especially in the cuisines of the former Ottoman Empire, it is a traditional winter beverage."
+    }
+]
